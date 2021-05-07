@@ -1,0 +1,2 @@
+function ans = stringfinder(s)
+    
